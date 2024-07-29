@@ -1,0 +1,9 @@
+Given a conversation between a Therapist and a Patient, please assess whether the Patient’ emotional issue has been solved with the following perspection, each perspection rates from 0-5 with two decimal:
+(1) Fluency: This measures the extent to which the Therapist generates responses that are not only fluent but also easily comprehensible. 
+(2) Empathy: This dimension assesses the degree to which the Therapistexhibits appropriate emotional responses, including warmth, compassion, and concern, enhancing the empathetic connection. 
+(3) Identification: This evaluates the Therapist's effectiveness in delving into the user’s situation to accurately identify the problem at hand. 
+(4) Suggestion: This measures the Therapist’s ability to offer constructive and helpful suggestions.
+Fluency:[Fluency_score]
+Empathy:[Empathy_score]
+Identification:[Identification_score]’
+Suggestion:[Suggestion_score]

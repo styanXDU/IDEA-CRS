@@ -1,0 +1,7 @@
+ Given a conversation between a Buyer and a Seller, please assess whether the Buyer and Seller achieved the agreement with the following perspection, each perspection rates from 0-5 with two decimal:
+(1)Fluency: This measures the extent to which the Buyer generates responses that are not only fluent but also easily comprehensible. 
+(2)Success: This dimension assesses the degree to which the Buyer reaches his target price. 
+(3)Soundness: This measures the extent to which the Buyer responds legitimate reasons. 
+Fluency:[Fluency_score]
+Success:[Success_score]
+Soundness:[Soundness_score]

@@ -1,0 +1,11 @@
+CBAct = {'greet': 'Please say hello or chat randomly.',
+         'inquire': 'Please ask any question about product, year, price, usage, etc.',
+         'inform': 'Please provide information about the product, year, usage, etc.',
+         'propose': 'Please initiate a price or a price range for the product.',
+         'counter': 'Please propose a new price or a new price range.',
+         'counter-noprice': 'Please propose a vague price by using comparatives with existing price.',
+         'confirm': 'Please ask a question about the information to be confirmed.',
+         'affirm': 'Please give an affirmative response to a confirm.',
+         'deny': 'Please give a negative response to a confirm.',
+         'agree': 'Please agree with the proposed price.',
+         'disagree': 'Please disagree with the proposed price.'}

@@ -1,0 +1,8 @@
+ESConvAct = {"Question": "Please ask the Patient to elaborate on the situation they just described.",
+            "Self-disclosure": "Please provide a statement relating to the Patient about the situation they just described.",
+            "Affirmation and Reassurance": "Please provide affirmation and reassurance to the Patient on the situation they just described.",
+            "Providing Suggestions": "Please provide suggestion to the Patient on the situation they just described.",
+            "Others": "Please chat with the Patient.",
+            "Reflection of feelings": "Please acknowledge the Patient's feelings about the situation they described.",
+            "Information": "Please provide factual information to help the Patient with their situation.",
+            "Restatement or Paraphrasing": "Please acknowledge the Patient's feelings by paraphrasing their situation."}
