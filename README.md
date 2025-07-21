@@ -1,5 +1,5 @@
-# ProDSP
+# IDEA-CRS
 
-This is the code repo for EMNLP24 under review paper "Improving Proactive Dialogue Strategy Planning with Interactive Environment and Goal-oriented Reward"
+This is the code repo for Information fusion under review paper "IDEA-CRS: An implicit desire exploration fusion based approach for proactive web conversational recommendation system"
 
 The code will be released soon
